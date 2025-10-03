@@ -94,12 +94,6 @@ I am motivated by digital innovation and the opportunity to transform ideas into
 
 ---
 
-## 🗺️ Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santiagotrujillo05&custom_title=Recent%20Activity&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-</p>
-
----
 
 ## 💡 What drives me?
 
